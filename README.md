@@ -1,4 +1,6 @@
-### Hi there 👋
+# Tomohiro Maeno
+
+### Hi there, I'm Tomohiro Maeno 👋
 
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
