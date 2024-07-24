@@ -2,6 +2,10 @@
 
 ### Hi there, I'm Tomohiro Maeno 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yumeko-16/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
+
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
