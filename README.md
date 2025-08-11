@@ -34,6 +34,23 @@
 - AI / PS / XD
 - Cursor / VSCode / Vim / Neovim
 
+## Projects
+
+### SUSHIBOYS
+
+- Link: https://sushiboys350.com/
+- Source: https://github.com/yumeko-16/sushiboys
+
+### Maeno Planning
+
+- Link: https://maenokikaku.co.jp/
+- Source: https://github.com/yumeko-16/maenokikaku
+
+### Doll Queen MICHIKO
+
+- Link: https://dollqueenmichiko.com/
+- Source: https://github.com/yumeko-16/dollqueenmichiko
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yumeko-16/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
