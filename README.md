@@ -1,6 +1,38 @@
 # Tomohiro Maeno
 
-### Hi there, I'm Tomohiro Maeno 👋
+## Technical Skills
+
+### Front-end
+
+- HTML / CSS
+- JavaScript / TypeScript
+- React / Next.js / Svelte
+- Bootstrap / Sass / Less
+- jQuery
+- WordPress (Theme Development, Front-end Implementation)
+
+### Back-end
+
+- PHP
+- CakePHP
+- MySQL
+- Node.js
+- WordPress (Admin Customization, Custom Post Types)
+
+### Infrastructure / DevOps
+
+- Linux
+- AWS / Azure
+- Docker
+- Vite / Webpack / Gulp / npm
+
+### Others / Tools
+
+- Git
+- GitHub / GitLab / Bitbucket
+- Gatsby
+- AI / PS / XD
+- Cursor / VSCode / Vim / Neovim
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/yumeko-16/github-profile-trophy)
 
