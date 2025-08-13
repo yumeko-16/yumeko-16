@@ -19,37 +19,16 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-### Front-end
-
-- HTML / CSS
-- JavaScript / TypeScript
-- React / Next.js / Svelte
+- HTML / CSS / JavaScript / TypeScript
+- React / Next.js / Svelte / jQuery
 - Bootstrap / Sass / Less
-- jQuery
-- WordPress (Theme Development, Front-end Implementation)
-
-### Back-end
-
-- PHP
-- CakePHP
+- WordPress / MicroCMS / Gatsby
+- PHP / CakePHP
 - MySQL
 - Node.js
-- WordPress (Admin Customization, Custom Post Types)
-
-### Infrastructure / DevOps
-
-- Linux
-- AWS / Azure
-- Docker
+- Linux / Docker / AWS / Azure
 - Vite / Webpack / Gulp / npm
-
-### Others / Tools
-
-- Git
-- GitHub / GitLab / Bitbucket
-- Gatsby
-- AI / PS / XD
-- Cursor / VSCode / Vim / Neovim
+- Git / GitHub / GitLab / Bitbucket
 
 ## Projects
 
