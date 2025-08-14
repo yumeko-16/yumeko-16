@@ -34,15 +34,24 @@ Here are some ideas to get you started:
 
 ## Projects
 
+<table>
+  <tr>
+    <td>
+      <a href="https://maenokikaku.co.jp/">
+        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/maenokikaku.co.jp.png" />
+      </a>
+      <br />
+      <a href="https://github.com/yumeko-16/maenokikaku">
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=maenokikaku&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### SUSHIBOYS
 
 - Link: https://sushiboys350.com/
 - Source: https://github.com/yumeko-16/sushiboys
-
-### Maeno Planning
-
-- Link: https://maenokikaku.co.jp/
-- Source: https://github.com/yumeko-16/maenokikaku
 
 ### Doll Queen MICHIKO
 
