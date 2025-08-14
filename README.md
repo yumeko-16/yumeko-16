@@ -1,5 +1,9 @@
 # Tomohiro Maeno
 
+Hi there, I'm Tomohiro Maeno.  
+Front-end developer with 7 years of professional experience, deeply passionate about JavaScript.  
+Enjoys building applications with a focus on performance optimization and delivering high-quality user experiences.
+
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
