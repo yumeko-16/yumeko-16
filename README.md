@@ -37,8 +37,17 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
+      <a href="https://sushiboys350.com/">
+        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
+      </a>
+      <br />
+      <a href="https://github.com/yumeko-16/sushiboys">
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
       <a href="https://maenokikaku.co.jp/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/maenokikaku.co.jp.png" />
+        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
       </a>
       <br />
       <a href="https://github.com/yumeko-16/maenokikaku">
@@ -47,11 +56,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-### SUSHIBOYS
-
-- Link: https://sushiboys350.com/
-- Source: https://github.com/yumeko-16/sushiboys
 
 ### Doll Queen MICHIKO
 
