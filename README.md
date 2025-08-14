@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
-
 ## Tech Stack
 
 - HTML / CSS / JavaScript / TypeScript
@@ -50,3 +48,7 @@ Here are some ideas to get you started:
 
 - Link: https://dollqueenmichiko.com/
 - Source: https://github.com/yumeko-16/dollqueenmichiko
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
