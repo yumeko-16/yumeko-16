@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
+## My Projects
 
 <table>
   <tr>
