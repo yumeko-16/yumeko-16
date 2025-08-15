@@ -19,19 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tech Stack
-
-- HTML / CSS / JavaScript / TypeScript
-- React / Next.js / Svelte / jQuery
-- Bootstrap / Sass / Less
-- WordPress / MicroCMS / Gatsby
-- PHP / CakePHP
-- MySQL
-- Node.js
-- Linux / Docker / AWS / Azure
-- Vite / Webpack / Gulp / npm
-- Git / GitHub / GitLab / Bitbucket
-
 ## Projects
 
 <table>
@@ -65,6 +52,19 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+## Tech Stack
+
+- HTML / CSS / JavaScript / TypeScript
+- React / Next.js / Svelte / jQuery
+- Bootstrap / Sass / Less
+- WordPress / MicroCMS / Gatsby
+- PHP / CakePHP
+- MySQL
+- Node.js
+- Linux / Docker / AWS / Azure
+- Vite / Webpack / Gulp / npm
+- Git / GitHub / GitLab / Bitbucket
 
 ---
 
