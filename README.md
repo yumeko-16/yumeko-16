@@ -45,15 +45,6 @@ Here are some ideas to get you started:
         <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys&theme=tokyonight" />
       </a>
     </td>
-    <td>
-      <a href="https://maenokikaku.co.jp/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
-      </a>
-      <br />
-      <a href="https://github.com/yumeko-16/maenokikaku">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=maenokikaku&theme=tokyonight" />
-      </a>
-    </td>
   </tr>
   <tr>
     <td>
