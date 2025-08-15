@@ -55,12 +55,18 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://dollqueenmichiko.com/">
+        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
+      </a>
+      <br />
+      <a href="https://github.com/yumeko-16/dollqueenmichiko">
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=dollqueenmichiko&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
 </table>
-
-### Doll Queen MICHIKO
-
-- Link: https://dollqueenmichiko.com/
-- Source: https://github.com/yumeko-16/dollqueenmichiko
 
 ---
 
