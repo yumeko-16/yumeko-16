@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/yumeko-16/sushiboys">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys&theme=tokyonight" />
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys&theme=tokyonight&cache_seconds=1800" />
       </a>
     </td>
     <td>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/yumeko-16/maenokikaku">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=maenokikaku&theme=tokyonight" />
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=maenokikaku&theme=tokyonight&cache_seconds=1800" />
       </a>
     </td>
   </tr>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
       </a>
       <br />
       <a href="https://github.com/yumeko-16/dollqueenmichiko">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=dollqueenmichiko&theme=tokyonight" />
+        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=dollqueenmichiko&theme=tokyonight&cache_seconds=1800" />
       </a>
     </td>
   </tr>
