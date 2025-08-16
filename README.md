@@ -55,16 +55,27 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-- HTML / CSS / JavaScript / TypeScript
-- React / Next.js / Svelte / jQuery
+### Programming Languages
+
+- HTML / CSS / JavaScript / TypeScript / PHP / SQL
+
+### Frameworks & Libraries
+
+- React / Next.js / Gatsby / Svelte　/ jQuery
+- CakePHP / WordPress
 - Bootstrap / Sass / Less
-- WordPress / MicroCMS / Gatsby
-- PHP / CakePHP
+
+### Databases
+
 - MySQL
+
+### Tools & Platforms
+
 - Node.js
 - Linux / Docker / AWS / Azure
 - Vite / Webpack / Gulp / npm
 - Git / GitHub / GitLab / Bitbucket
+- MicroCMS
 
 ---
 
