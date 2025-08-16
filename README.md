@@ -4,6 +4,8 @@ Hi there, I'm Tomohiro Maeno.
 Front-end developer with 7 years of professional experience, deeply passionate about JavaScript.  
 Enjoys building applications with a focus on performance optimization and delivering high-quality user experiences.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
+
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,28 +57,17 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-### Programming Languages
-
 - HTML / CSS / JavaScript / TypeScript / PHP / SQL
-
-### Frameworks & Libraries
-
 - React / Next.js / Gatsby / Svelte　/ jQuery
 - CakePHP / WordPress
 - Bootstrap / Sass / Less
-
-### Databases
-
 - MySQL
-
-### Tools & Platforms
-
 - Node.js
 - Linux / Docker / AWS / Azure
 - Vite / Webpack / Gulp / npm
 - Git / GitHub / GitLab / Bitbucket
 - MicroCMS
 
----
+## Contact
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
+Email: tomohiro.maeno@gmail.com</kbd>
