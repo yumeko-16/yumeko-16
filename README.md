@@ -1,10 +1,15 @@
-# Tomohiro Maeno
+<h1 align="center">Tomohiro Maeno</h1>
+
+<div align="center">
+  <kbd>GitHub: @yumeko-16</kbd>
+  <kbd>Email: tomohiro.maeno@gmail.com</kbd>
+</div>
+
+<br />
 
 Hi there, I'm Tomohiro Maeno.  
 Front-end developer with 7 years of professional experience, deeply passionate about JavaScript.  
 Enjoys building applications with a focus on performance optimization and delivering high-quality user experiences.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
 
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,6 +73,6 @@ Here are some ideas to get you started:
 - Git / GitHub / GitLab / Bitbucket
 - MicroCMS
 
-## Contact
+## GitHub status
 
-Email: tomohiro.maeno@gmail.com</kbd>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
