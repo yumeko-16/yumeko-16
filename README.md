@@ -7,10 +7,8 @@
 
 <br />
 
-Hi there, I'm Tomohiro Maeno.
-
-Front-end developer with 7 years of professional experience, deeply passionate about JavaScript.  
-Enjoys building applications with a focus on performance optimization and delivering high-quality user experiences.
+Hi there, I'm Tomohiro Maeno.  
+I'm a Japanese Front-end developer based in Thailand. 🇯🇵🇹🇭
 
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,9 +27,16 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm a Japanese Front-end developer based in Thailand.  
 After majoring in IT business at university, I worked at an IT company on web development and infrastructure operations.  
 Since 2021, I have been developing e-commerce sites in Thailand.
+
+### Front-end developer (Mar. 2021 - Current)
+
+### Freelance (Apr. 2020 - Feb. 2021)
+
+### Study abroad to study a language (Jan. 2020 - Mar. 2020)
+
+### Web creator (Mar. 2016 - Jun. 2019)
 
 ## My Projects
 
