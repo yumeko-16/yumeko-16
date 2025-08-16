@@ -7,7 +7,8 @@
 
 <br />
 
-Hi there, I'm Tomohiro Maeno.  
+Hi there, I'm Tomohiro Maeno.
+
 Front-end developer with 7 years of professional experience, deeply passionate about JavaScript.  
 Enjoys building applications with a focus on performance optimization and delivering high-quality user experiences.
 
@@ -25,6 +26,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+I'm a Japanese Front-end developer based in Thailand.  
+After majoring in IT business at university, I worked at an IT company on web development and infrastructure operations.  
+Since 2021, I have been developing e-commerce sites in Thailand.
 
 ## My Projects
 
