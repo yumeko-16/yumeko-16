@@ -75,7 +75,7 @@ Since 2021, I have been developing e-commerce sites in Thailand.
 ## Tech Stack
 
 - HTML / CSS / JavaScript / TypeScript / PHP / SQL
-- React / Next.js / Gatsby / Svelte　/ jQuery
+- React / Next.js / Gatsby / Svelte / jQuery
 - CakePHP / WordPress
 - Bootstrap / Sass / Less
 - MySQL
