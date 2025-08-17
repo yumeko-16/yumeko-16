@@ -32,11 +32,31 @@ Since 2021, I have been developing e-commerce sites in Thailand.
 
 ### Front-end developer (Mar. 2021 - Current)
 
+- Developed Front-end of e-commerce websites with Next.js and TypeScript.
+- Developed Front-end a brand website with Svelte.
+- Developed corporate websites Front-end with EJS, leveraging WordPress as a headless CMS.
+- Developed e-commerce websites with CakePHP.
+- Developed brand websites with WordPress.
+- Optimized websites for search engines (SEO).
+
 ### Freelance (Apr. 2020 - Feb. 2021)
+
+- Designed CD jackets, ashtrays, and mugs for music releases.
+- Developed a promotional website.
+- Developed a mockup for a hybrid mobile application.
+- Developed mockups for a To-Do list web application.
 
 ### Study abroad to study a language (Jan. 2020 - Mar. 2020)
 
+- Studied English in the Philippines.
+
 ### Web creator (Mar. 2016 - Jun. 2019)
+
+- Built an Azure VM environment from scratch using Ansible.
+- Coordinated vulnerability assessment projects for servers and applications.
+- Coordinated domain/SSL certificate management.
+- Redesigned and coded a WordPress website.
+- Developed Front-end solutions with a focus on accessibility for people with disabilities.
 
 ## My Projects
 
