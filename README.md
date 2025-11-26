@@ -60,48 +60,48 @@ Since 2021, I have been developing e-commerce sites in Thailand.
 
 ## My Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://sushiboys-web-next.vercel.app/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
-      </a>
-      <br />
-      <a href="https://github.com/yumeko-16/sushiboys-web-next">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys-web-next&theme=tokyonight&cache_seconds=1800" />
-      </a>
-    </td>
-    <td>
-      <a href="https://sushiboys350.com/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
-      </a>
-      <br />
-      <a href="https://github.com/yumeko-16/sushiboys">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=sushiboys&theme=tokyonight&cache_seconds=1800" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://maenokikaku.co.jp/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
-      </a>
-      <br />
-      <a href="https://github.com/yumeko-16/maenokikaku">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=maenokikaku&theme=tokyonight&cache_seconds=1800" />
-      </a>
-    </td>
-    <td>
-      <a href="https://dollqueenmichiko.com/">
-        <img width="400" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
-      </a>
-      <br />
-      <a href="https://github.com/yumeko-16/dollqueenmichiko">
-        <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yumeko-16&repo=dollqueenmichiko&theme=tokyonight&cache_seconds=1800" />
-      </a>
-    </td>
-  </tr>
-</table>
+### SUSHIBOYS Official Website (Next.js Renewal)
+
+<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
+
+- URL: https://sushiboys-web-next.vercel.app/
+- Repository: https://github.com/yumeko-16/sushiboys-web-next/
+
+### SUSHIBOYS Official Website
+
+<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
+
+This repository contains the source code for a brand website built with EJS, SCSS, and JavaScript.
+It uses WordPress as a headless CMS (via REST API) and Webpack for asset bundling and build automation.
+
+- URL: https://sushiboys350.com/
+- Repository: https://github.com/yumeko-16/sushiboys/
+
+### Maeno Planning Co., Ltd. Official Website (Next.js Renewal)
+
+<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
+
+This repository is a new frontend project that has been redesigned using Next.js for the existing corporate official website, "Maeno Planning Co., Ltd. Official Website."
+
+- URL: https://maenokikaku.co.jp/
+- Repository: https://github.com/yumeko-16/maenokikaku-web-next/
+
+### Maeno Planning Co., Ltd. Official Website
+
+<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
+
+This project is a static website built with HTML, SCSS, CSS, JavaScript, TypeScript, and PHP.
+It supports a development environment powered by Vite and containerization using Docker.
+
+- URL: ~~https://maenokikaku.co.jp/~~
+- Repository: https://github.com/yumeko-16/maenokikaku/
+
+### Doll Queen MICHIKO Official Website
+
+<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
+
+- URL: https://dollqueenmichiko.com/
+- Repository: https://github.com/yumeko-16/dollqueenmichiko/
 
 ## Tech Stack
 
@@ -115,7 +115,3 @@ Since 2021, I have been developing e-commerce sites in Thailand.
 - Vite / Webpack / Gulp / npm
 - Git / GitHub / GitLab / Bitbucket
 - MicroCMS
-
-## GitHub status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumeko-16&show_icons=true&theme=tokyonight)
