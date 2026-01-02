@@ -7,7 +7,7 @@
 
 <br />
 
-Hello, I’m Tomohiro Maeno, a Japanese frontend developer based in Thailand. 🇯🇵🇹🇭
+Hello, I’m Tomohiro Maeno, a Japanese front-end developer based in Thailand. 🇯🇵🇹🇭
 
 <!--
 **yumeko-16/yumeko-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
