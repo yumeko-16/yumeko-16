@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-After majoring in IT business at university, I worked at an IT company on web development and infrastructure operations.  
-Since 2021, I have been developing e-commerce sites in Thailand.
+I studied business and IT at university. After graduating, I worked at an IT company as a Web Developer (Web Creator in my official certificate), gaining experience in web development and infrastructure. Since 2021, I have been working as a Frontend Engineer, developing e-commerce websites in Thailand.
 
 ### Front-end developer (Mar. 2021 - Current)
 
