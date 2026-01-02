@@ -48,7 +48,7 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 - Studied English in the Philippines.
 
-### Web creator (Mar. 2016 - Jun. 2019)
+### Web developer (Mar. 2016 - Jun. 2019)
 
 - Built an Azure VM environment from scratch using Ansible.
 - Coordinated vulnerability assessment projects for servers and applications.
