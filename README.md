@@ -30,12 +30,11 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 ### Front-end developer (Mar. 2021 - Current)
 
-- Developed Front-end of e-commerce websites with Next.js and TypeScript.
-- Developed Front-end a brand website with Svelte.
-- Developed corporate websites Front-end with EJS, leveraging WordPress as a headless CMS.
-- Developed e-commerce websites with CakePHP.
-- Developed brand websites with WordPress.
-- Optimized websites for search engines (SEO).
+- Developing Front-end of e-commerce websites with Next.js and TypeScript.
+- Developing corporate websites Front-end with EJS, leveraging WordPress as a headless CMS.
+- Developing e-commerce websites with CakePHP.
+- Developing brand websites with WordPress.
+- Optimizing websites for search engines (SEO).
 
 ### Freelance (Apr. 2020 - Feb. 2021)
 
