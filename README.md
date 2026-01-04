@@ -102,29 +102,36 @@ It supports a development environment powered by Vite and containerization using
 
 ## Tech Stack
 
-Languages
+### Languages
+
 HTML, CSS, JavaScript, TypeScript, PHP, SQL
 
-Frontend Frameworks / Libraries
+### Frontend Frameworks / Libraries
+
 React, Next.js, Gatsby, Svelte, jQuery
 
-Backend / CMS
+### Backend / CMS
 CakePHP, WordPress, MicroCMS
 
-Styling
+### Styling
 Sass, Less, Bootstrap
 
-Databases
+### Databases
+
 MySQL
 
-Runtime / Platform
+### Runtime / Platform
+
 Node.js
 
-Infrastructure / DevOps
+### Infrastructure / DevOps
+
 Linux, Docker, AWS, Azure
 
-Build Tools
+### Build Tools
+
 Vite, Webpack, Gulp, npm
 
-Version Control
+### Version Control
+
 Git, GitHub, GitLab, Bitbucket
