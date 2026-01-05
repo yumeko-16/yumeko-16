@@ -90,7 +90,6 @@ This repository is a new frontend project that has been redesigned using Next.js
 This project is a static website built with HTML, SCSS, CSS, JavaScript, TypeScript, and PHP.
 It supports a development environment powered by Vite and containerization using Docker.
 
-- URL: ~~https://maenokikaku.co.jp/~~
 - Repository: https://github.com/yumeko-16/maenokikaku/
 
 ### Doll Queen MICHIKO Official Website
