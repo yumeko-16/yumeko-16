@@ -104,17 +104,19 @@ It supports a development environment powered by Vite and containerization using
 
 ### Languages
 
-HTML, CSS, JavaScript, TypeScript, PHP, SQL
+HTML / CSS / JavaScript / TypeScript / PHP / SQL
 
 ### Frontend Frameworks / Libraries
 
-React, Next.js, Gatsby, Svelte, jQuery
+React / Next.js / Gatsby / Svelte / jQuery
 
 ### Backend / CMS
-CakePHP, WordPress, MicroCMS
+
+CakePHP / WordPress / MicroCMS
 
 ### Styling
-Sass, Less, Bootstrap
+
+Sass / Less / Bootstrap
 
 ### Databases
 
@@ -126,12 +128,12 @@ Node.js
 
 ### Infrastructure / DevOps
 
-Linux, Docker, AWS, Azure
+Linux / Docker / AWS / Azure
 
 ### Build Tools
 
-Vite, Webpack, Gulp, npm
+Vite / Webpack / Gulp / npm
 
 ### Version Control
 
-Git, GitHub, GitLab, Bitbucket
+Git / GitHub / GitLab / Bitbucket
