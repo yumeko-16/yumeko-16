@@ -42,12 +42,15 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 ## My Projects
 
-### SUSHIBOYS Official Website (Next.js Renewal)
+### SUSHIBOYS Official Website (Next.js)
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
-- URL: https://sushiboys-web-next.vercel.app/
-- Repository: https://github.com/yumeko-16/sushiboys-web-next/
+URL:  
+https://sushiboys-web-next.vercel.app/
+
+Repository:  
+https://github.com/yumeko-16/sushiboys-web-next/
 
 ### SUSHIBOYS Official Website
 
@@ -56,8 +59,11 @@ I studied business and IT at university. After graduating, I worked at an IT com
 This repository contains the source code for a brand website built with EJS, SCSS, and JavaScript.
 It uses WordPress as a headless CMS (via REST API) and Webpack for asset bundling and build automation.
 
-- URL: https://sushiboys350.com/
-- Repository: https://github.com/yumeko-16/sushiboys/
+URL:  
+https://sushiboys350.com/
+
+Repository:  
+https://github.com/yumeko-16/sushiboys/
 
 ### Maeno Planning Co., Ltd. Official Website (Next.js Renewal)
 
@@ -65,8 +71,11 @@ It uses WordPress as a headless CMS (via REST API) and Webpack for asset bundlin
 
 This repository is a new frontend project that has been redesigned using Next.js for the existing corporate official website, "Maeno Planning Co., Ltd. Official Website."
 
-- URL: https://maenokikaku.co.jp/
-- Repository: https://github.com/yumeko-16/maenokikaku-web-next/
+URL:  
+https://maenokikaku.co.jp/
+
+Repository:  
+https://github.com/yumeko-16/maenokikaku-web-next/
 
 ### Maeno Planning Co., Ltd. Official Website
 
@@ -75,14 +84,18 @@ This repository is a new frontend project that has been redesigned using Next.js
 This project is a static website built with HTML, SCSS, CSS, JavaScript, TypeScript, and PHP.
 It supports a development environment powered by Vite and containerization using Docker.
 
-- Repository: https://github.com/yumeko-16/maenokikaku/
+Repository:  
+https://github.com/yumeko-16/maenokikaku/
 
 ### Doll Queen MICHIKO Official Website
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
 
-- URL: https://dollqueenmichiko.com/
-- Repository: https://github.com/yumeko-16/dollqueenmichiko/
+URL:  
+https://dollqueenmichiko.com/
+
+Repository:  
+https://github.com/yumeko-16/dollqueenmichiko/
 
 ## Tech Stack
 
