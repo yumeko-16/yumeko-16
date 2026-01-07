@@ -52,7 +52,7 @@ https://sushiboys-web-next.vercel.app/
 Repository:  
 https://github.com/yumeko-16/sushiboys-web-next/
 
-### SUSHIBOYS Official Website
+### SUSHIBOYS Official Website (EJS)
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
@@ -65,7 +65,7 @@ https://sushiboys350.com/
 Repository:  
 https://github.com/yumeko-16/sushiboys/
 
-### Maeno Planning Co., Ltd. Official Website (Next.js Renewal)
+### Maeno Planning Co., Ltd. Official Website (Next.js)
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
 
