@@ -48,24 +48,15 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
-URL:  
-https://sushiboys-web-next.vercel.app/
+Official website for SUSHIBOYS.
 
-Repository:  
-https://github.com/yumeko-16/sushiboys-web-next/
+**Current website**
+- URL: https://sushiboys350.com/
+- Repository: https://github.com/yumeko-16/sushiboys/
 
-### SUSHIBOYS Official Website (EJS)
-
-<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
-
-This repository contains the source code for a brand website built with EJS, SCSS, and JavaScript.
-It uses WordPress as a headless CMS (via REST API) and Webpack for asset bundling and build automation.
-
-URL:  
-https://sushiboys350.com/
-
-Repository:  
-https://github.com/yumeko-16/sushiboys/
+**Renewed version (Next.js)**
+- URL: https://sushiboys-web-next.vercel.app/
+- Repository: https://github.com/yumeko-16/sushiboys-web-next/
 
 ### Maeno Kikaku Co., Ltd.
 
