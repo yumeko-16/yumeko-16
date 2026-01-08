@@ -67,11 +67,11 @@ https://sushiboys350.com/
 Repository:  
 https://github.com/yumeko-16/sushiboys/
 
-### Maeno Planning Co., Ltd. Official Website (Next.js)
+### Maeno Kikaku Co., Ltd. (Next.js)
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
 
-This repository is a new frontend project that has been redesigned using Next.js for the existing corporate official website, "Maeno Planning Co., Ltd. Official Website."
+The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
 URL:  
 https://maenokikaku.co.jp/
@@ -79,12 +79,11 @@ https://maenokikaku.co.jp/
 Repository:  
 https://github.com/yumeko-16/maenokikaku-web-next/
 
-### Maeno Planning Co., Ltd. Official Website
+### Maeno Kikaku Co., Ltd. (EJS)
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
 
-This project is a static website built with HTML, SCSS, CSS, JavaScript, TypeScript, and PHP.
-It supports a development environment powered by Vite and containerization using Docker.
+The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
 Repository:  
 https://github.com/yumeko-16/maenokikaku/
