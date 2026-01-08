@@ -44,7 +44,7 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 ## My Projects
 
-### SUSHIBOYS Official Website (Next.js)
+### SUSHIBOYS
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
