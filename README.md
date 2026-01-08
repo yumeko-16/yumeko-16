@@ -50,13 +50,21 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 Official website for SUSHIBOYS.
 
-**Current website**
-- URL: https://sushiboys350.com/
-- Repository: https://github.com/yumeko-16/sushiboys/
+**Current (EJS)**
 
-**Renewed version (Next.js)**
-- URL: https://sushiboys-web-next.vercel.app/
-- Repository: https://github.com/yumeko-16/sushiboys-web-next/
+Website:  
+https://sushiboys350.com/
+
+Repository:  
+https://github.com/yumeko-16/sushiboys/
+
+**Renewed (Next.js)**
+
+Website:  
+https://sushiboys-web-next.vercel.app/
+
+Repository:  
+https://github.com/yumeko-16/sushiboys-web-next/
 
 ### Maeno Kikaku Co., Ltd.
 
