@@ -67,25 +67,19 @@ https://sushiboys350.com/
 Repository:  
 https://github.com/yumeko-16/sushiboys/
 
-### Maeno Kikaku Co., Ltd. (Next.js)
+### Maeno Kikaku Co., Ltd.
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
 
 The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
-URL:  
+Website:  
 https://maenokikaku.co.jp/
 
-Repository:  
+Repository (Next.js, renewed version):  
 https://github.com/yumeko-16/maenokikaku-web-next/
 
-### Maeno Kikaku Co., Ltd. (EJS)
-
-<img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
-
-The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
-
-Repository:  
+Repository (EJS, original version):  
 https://github.com/yumeko-16/maenokikaku/
 
 ### Doll Queen MICHIKO Official Website
