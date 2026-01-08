@@ -81,11 +81,11 @@ https://github.com/yumeko-16/maenokikaku-web-next/
 Repository (EJS, original version):  
 https://github.com/yumeko-16/maenokikaku/
 
-### Doll Queen MICHIKO Official Website
+### Doll Queen MICHIKO
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
 
-URL:  
+Website:  
 https://dollqueenmichiko.com/
 
 Repository:  
