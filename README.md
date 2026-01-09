@@ -88,36 +88,12 @@ The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhi
 
 ### Languages
 
-HTML / CSS / JavaScript / TypeScript / PHP / SQL
-
-### Frontend Frameworks / Libraries
-
-React / Next.js / Gatsby / Svelte / jQuery
-
-### Backend / CMS
-
-CakePHP / WordPress / MicroCMS
-
-### Styling
-
-Sass / Less / Bootstrap
-
-### Databases
-
-MySQL
-
-### Runtime / Platform
-
-Node.js
-
-### Infrastructure / DevOps
-
-Linux / Docker / AWS / Azure
-
-### Build Tools
-
-Vite / Webpack / Gulp / npm
-
-### Version Control
-
-Git / GitHub / GitLab / Bitbucket
+- HTML / CSS / JavaScript / TypeScript / PHP / SQL
+- React / Next.js / Gatsby / Svelte / jQuery
+- CakePHP / WordPress / MicroCMS
+- Sass / Less / Bootstrap
+- MySQL
+- Node.js
+- Linux / Docker / AWS / Azure
+- Vite / Webpack / Gulp / npm
+- Git / GitHub / GitLab / Bitbucket
