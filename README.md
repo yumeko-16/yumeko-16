@@ -48,8 +48,6 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
-Official website for SUSHIBOYS.
-
 - Production:
   - Website: https://sushiboys350.com/
   - Repository: https://github.com/yumeko-16/sushiboys/
@@ -60,8 +58,6 @@ Official website for SUSHIBOYS.
 ### Maeno Kikaku Co., Ltd.
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
-
-The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
 - Website: https://maenokikaku.co.jp/
 - Repository: https://github.com/yumeko-16/maenokikaku-web-next/
