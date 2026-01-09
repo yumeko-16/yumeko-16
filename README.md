@@ -79,11 +79,10 @@ The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhi
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
 
-Website:  
-https://dollqueenmichiko.com/
+#### Production
 
-Repository:  
-https://github.com/yumeko-16/dollqueenmichiko/
+- Website: https://dollqueenmichiko.com/
+- Repository: https://github.com/yumeko-16/dollqueenmichiko/
 
 ## Tech Stack
 
