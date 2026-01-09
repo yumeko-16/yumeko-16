@@ -50,15 +50,12 @@ I studied business and IT at university. After graduating, I worked at an IT com
 
 Official website for SUSHIBOYS.
 
-#### Production (EJS)
-
-- Website: https://sushiboys350.com/
-- Repository: https://github.com/yumeko-16/sushiboys/
-
-#### In Progress / Staging (Next.js)
-
-- Website: https://sushiboys-web-next.vercel.app/
-- Repository: https://github.com/yumeko-16/sushiboys-web-next/
+- Production:
+  - Website: https://sushiboys350.com/
+  - Repository: https://github.com/yumeko-16/sushiboys/
+- In Progress:
+  - Website: https://sushiboys-web-next.vercel.app/
+  - Repository: https://github.com/yumeko-16/sushiboys-web-next/
 
 ### Maeno Kikaku Co., Ltd.
 
@@ -66,20 +63,13 @@ Official website for SUSHIBOYS.
 
 The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
-#### Production (Next.js)
-
 - Website: https://maenokikaku.co.jp/
 - Repository: https://github.com/yumeko-16/maenokikaku-web-next/
-
-#### Legacy / Archived (EJS)
-
-- Repository: https://github.com/yumeko-16/maenokikaku/
+  - (Archived: https://github.com/yumeko-16/maenokikaku/)
 
 ### Doll Queen MICHIKO
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
-
-#### Production
 
 - Website: https://dollqueenmichiko.com/
 - Repository: https://github.com/yumeko-16/dollqueenmichiko/
