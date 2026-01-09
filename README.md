@@ -76,8 +76,6 @@ The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhi
 
 ## Tech Stack
 
-### Languages
-
 - HTML / CSS / JavaScript / TypeScript / PHP / SQL
 - React / Next.js / Gatsby / Svelte / jQuery
 - CakePHP / WordPress / MicroCMS
