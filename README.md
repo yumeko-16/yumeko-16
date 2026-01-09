@@ -49,26 +49,28 @@ I studied business and IT at university. After graduating, I worked at an IT com
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/sushiboys350.com.jpg" />
 
 - Production:
-  - Website: https://sushiboys350.com/
-  - Repository: https://github.com/yumeko-16/sushiboys/
+  - Site: https://sushiboys350.com/
+  - Repo: https://github.com/yumeko-16/sushiboys/
 - In Progress:
-  - Website: https://sushiboys-web-next.vercel.app/
-  - Repository: https://github.com/yumeko-16/sushiboys-web-next/
+  - Site: https://sushiboys-web-next.vercel.app/
+  - Repo: https://github.com/yumeko-16/sushiboys-web-next/
 
 ### Maeno Kikaku Co., Ltd.
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/maenokikaku.co.jp.png" />
 
-- Website: https://maenokikaku.co.jp/
-- Repository: https://github.com/yumeko-16/maenokikaku-web-next/
-  - (Archived: https://github.com/yumeko-16/maenokikaku/)
+- Production:
+  - Site: https://maenokikaku.co.jp/
+  - Repo: https://github.com/yumeko-16/maenokikaku-web-next/
+- Archived:
+  - Repo: https://github.com/yumeko-16/maenokikaku/
 
 ### Doll Queen MICHIKO
 
 <img width="200" src="https://github.com/yumeko-16/yumeko-16/blob/main/images/dollqueenmichiko.com.png" />
 
-- Website: https://dollqueenmichiko.com/
-- Repository: https://github.com/yumeko-16/dollqueenmichiko/
+- Site: https://dollqueenmichiko.com/
+- Repo: https://github.com/yumeko-16/dollqueenmichiko/
 
 ## Tech Stack
 
