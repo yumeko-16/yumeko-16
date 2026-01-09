@@ -72,13 +72,17 @@ https://github.com/yumeko-16/sushiboys-web-next/
 
 The corporate website for Maeno Kikaku Co., Ltd., a company that supports Buddhist temples.
 
+#### Production (Next.js)
+
 Website:  
 https://maenokikaku.co.jp/
 
-Repository (Next.js, renewed version):  
+Repository:  
 https://github.com/yumeko-16/maenokikaku-web-next/
 
-Repository (EJS, original version):  
+#### Legacy / Archived (EJS)
+
+Repository:  
 https://github.com/yumeko-16/maenokikaku/
 
 ### Doll Queen MICHIKO
