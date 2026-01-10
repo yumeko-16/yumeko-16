@@ -11,7 +11,9 @@ Hello, Iâ€™m Tomohiro Maeno, a Japanese Front-end Developer based in Thailand. ð
 
 ## About me
 
-I studied business and IT at university. After graduating, I worked at an IT company as a Web Developer (Web Creator in my official certificate), gaining experience in web development and infrastructure. Since 2021, I have been working as a Front-end Developer, developing e-commerce websites in Thailand.
+I studied business and IT at university.  
+After graduating, I worked at an IT company as a Web Creator, gaining experience in web development and infrastructure.  
+Since 2021, I have been working as a Front-end Developer, developing e-commerce websites in Thailand.
 
 ## Experience
 
