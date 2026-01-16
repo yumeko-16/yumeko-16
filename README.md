@@ -40,7 +40,7 @@ Since 2021, I have been working as a Front-end Developer, developing e-commerce 
 
 - Built an Azure VM environment from scratch using Ansible.
 - Coordinated vulnerability assessment projects for servers and applications.
-- Coordinated domain/SSL certificate management.
+- Managed domains and SSL certificates.
 - Redesigned and coded a WordPress website.
 - Developed Front-end solutions with a focus on accessibility for people with disabilities.
 
